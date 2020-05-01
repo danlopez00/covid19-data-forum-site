@@ -1,0 +1,3 @@
+[submodule "themes/covid19-data-forum"]
+	path = themes/covid19-data-forum
+	url = https://github.com/danlopez00/covid19-data-forum.git
